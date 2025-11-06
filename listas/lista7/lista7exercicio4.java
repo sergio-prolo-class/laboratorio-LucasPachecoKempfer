@@ -24,7 +24,7 @@ public class lista7exercicio4 {
         } while (primeiroDia < 1 || primeiroDia > 7);
 
         System.out.println();
-        System.out.println("D S T Q Q S S");
+        System.out.println(" D  S  T  Q  Q  S  S");
 
         for (int i = 1; i < primeiroDia; i++) {
             System.out.print("   ");
